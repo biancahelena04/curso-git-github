@@ -7,8 +7,8 @@ um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 
 Além disso, vamos trabalhar com Git Flow ao final do curso e Visual Studio Code.
-
-
+Confira o curso.
+kkkkkkkkkkkkkkkkk
 
 \##Fluxo de trabalho Git local
 
