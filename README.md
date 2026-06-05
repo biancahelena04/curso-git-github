@@ -10,6 +10,8 @@ Além disso, vamos trabalhar com Git Flow ao final do curso e Visual Studio Code
 Confira o curso.
 kkkkkkkkkkkkkkkkk
 
+se liga  no canal do youtube e siteblbalblablablabklablablablabla [Youtube](https://youtube.com)
+
 \##Fluxo de trabalho Git local
 
 1. git checkout -b
